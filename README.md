@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/hakim_bhb" target="blank"><img src="https://img.shields.io/twitter/follow/hakim_bhb?logo=twitter&style=for-the-badge" alt="hakim_bhb" /></a> </p>
 
-- 🔭 I’m currently working on [ChatGPT TN](https://github.com/Hakimbhb/ChatGPT-TN)
+- 🔭  I’m currently learning **mobile dev**
 
-- 🌱 I’m currently learning **mobile dev**
-
-- 📫 How to reach me **bhbhakim123@gmail.com**
+- 📫 How to reach me **bhbhakim001@gmail.com**
 
 - 📄 Know about my experiences [https://about.me/hakim_bhb](https://about.me/hakim_bhb)
 
