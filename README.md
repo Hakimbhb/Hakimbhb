@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bhbhakim001@gmail.com**
 
-- 📄 Know about my experiences [https://about.me/hakim_bhb](https://about.me/hakim_bhb)
+- 📄 Know about my experiences [https://hakimbhb.tech](https://hakimbhb.tech)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
