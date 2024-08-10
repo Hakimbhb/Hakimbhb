@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bhbhakim001@gmail.com**
 
-- 📄 Know about my experiences [https://hakimbhb.tech](https://hakimbhb.tech)
+- 📄 Know about my experiences [https://hakimbhb.github.io](https://hakimbhb.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
