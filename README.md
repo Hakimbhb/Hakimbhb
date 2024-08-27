@@ -1,5 +1,13 @@
+
 ---
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hakimbhb&label=Profile%20views&color=0e75b6&style=flat" alt="hakimbhb" /> </p>
+
+[![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md) 
+
+
+
+
 
 
 
