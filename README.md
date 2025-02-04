@@ -8,7 +8,7 @@
 
 
 
-
+[![wakatime](https://wakatime.com/badge/user/66fb425a-53dc-4510-9cf0-06d9f5e84848.svg)](https://wakatime.com/@66fb425a-53dc-4510-9cf0-06d9f5e84848)
 
 
 <h1 align="center">🌟 Welcome to My Digital Realm! 🌟</h1>
