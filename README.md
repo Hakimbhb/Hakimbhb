@@ -1,15 +1,13 @@
 
----
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hakimbhb&label=Profile%20views&color=0e75b6&style=flat" alt="hakimbhb" /> </p>
-
-[![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md) 
-
-
-
-
-[![wakatime](https://wakatime.com/badge/user/66fb425a-53dc-4510-9cf0-06d9f5e84848.svg)](https://wakatime.com/@66fb425a-53dc-4510-9cf0-06d9f5e84848)
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=hakimbhb&label=Profile%20views&color=0e75b6&style=flat" alt="hakimbhb" />
+  <a href="https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md">
+    <img src="https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg" alt="StandWithPalestine" />
+  </a>
+  <a href="https://wakatime.com/@66fb425a-53dc-4510-9cf0-06d9f5e84848">
+    <img src="https://wakatime.com/badge/user/66fb425a-53dc-4510-9cf0-06d9f5e84848.svg" alt="wakatime" />
+  </a>
+</p>
 
 <h1 align="center">🌟 Welcome to My Digital Realm! 🌟</h1>
 
